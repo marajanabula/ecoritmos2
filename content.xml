@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260603220241OOC1VO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260603220241IP4741</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.1</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ECO-RITMOS: LOS CUATRO MULEROS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>MARÍA CASTAÑO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Aprendizaje dirigida al alumnado de 4.º de Educación Primaria en la que se combina el aprendizaje musical, la sostenibilidad y la competencia digital. A partir de la canción popular andaluza Los cuatro muleros, el alumnado descubre e interpreta el ritmo ternario (3/4), construye instrumentos de percusión con materiales reciclados, crea bases rítmicas digitales y participa en una interpretación musical cooperativa. A través de metodologías activas y experiencias prácticas, se fomenta el conocimiento del patrimonio cultural andaluz, la creatividad, el trabajo en equipo y el uso responsable de los recursos y las tecnologías.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1781194547281</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>4f884ae0-2f7a-4449-ad9a-350b6405ebf6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN Y DESCRIPCIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN Y DESCRIPCIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>4f884ae0-2f7a-4449-ad9a-350b6405ebf6</odePageId>
+      <odeBlockId>block-1780504519855-tm9fo0k23</odeBlockId>
+      <blockName>PRESENTACIÓN Y DESCRIPCIÓN</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4f884ae0-2f7a-4449-ad9a-350b6405ebf6</odePageId>
+          <odeBlockId>block-1780504519855-tm9fo0k23</odeBlockId>
+          <odeIdeviceId>idevice-1780504519854-8ntjxt6ow</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante las próximas sesiones os convertiréis en músicos, inventores, investigadores y creadores digitales. A través de una conocida canción tradicional andaluza, Los cuatro muleros, descubriréis cómo funciona el ritmo ternario (3/4), construiréis vuestros propios instrumentos con materiales reciclados y crearéis música utilizando herramientas digitales.</p>
+<p>Trabajaremos en los distintos espacios del aula de Música: Interpretación, Canto, Investiga y Digitalízate, donde superaréis diferentes retos para preparar una actuación final en equipo. Además, aprenderéis la importancia de cuidar el medioambiente reutilizando materiales y dando una segunda vida al cartón.</p>
+<p>¿Seréis capaces de convertir objetos reciclados en instrumentos musicales y acompañar una canción tradicional con vuestros propios ritmos?</p>
+<p>¡Aceptad el reto y demostrad vuestro talento musical y creativo!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780504519854-8ntjxt6ow","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante las próximas sesiones os convertiréis en músicos, inventores, investigadores y creadores digitales. A través de una conocida canción tradicional andaluza, Los cuatro muleros, descubriréis cómo funciona el ritmo ternario (3/4), construiréis vuestros propios instrumentos con materiales reciclados y crearéis música utilizando herramientas digitales.</p>\n<p>Trabajaremos en los distintos espacios del aula de Música: Interpretación, Canto, Investiga y Digitalízate, donde superaréis diferentes retos para preparar una actuación final en equipo. Además, aprenderéis la importancia de cuidar el medioambiente reutilizando materiales y dando una segunda vida al cartón.</p>\n<p>¿Seréis capaces de convertir objetos reciclados en instrumentos musicales y acompañar una canción tradicional con vuestros propios ritmos?</p>\n<p>¡Aceptad el reto y demostrad vuestro talento musical y creativo!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>4f884ae0-2f7a-4449-ad9a-350b6405ebf6</odePageId>
+      <odeBlockId>block-1780504862750-0yp1hnznu</odeBlockId>
+      <blockName>PROTECCIÓN DE DATOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4f884ae0-2f7a-4449-ad9a-350b6405ebf6</odePageId>
+          <odeBlockId>block-1780504862750-0yp1hnznu</odeBlockId>
+          <odeIdeviceId>idevice-1780504862749-wqrnnle9d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante esta Situación de Aprendizaje utilizaremos algunas herramientas digitales para crear ritmos, grabar actividades o compartir nuestros trabajos dentro del aula. Por ello, es importante que hagamos un uso responsable y seguro de la tecnología. Respetaremos la privacidad de todas las personas, no compartiremos datos personales ni imágenes sin autorización y utilizaremos las herramientas digitales siguiendo las indicaciones de la seño.</p>
+<p>Además, cuando busquemos información, imágenes, sonidos o cualquier otro recurso en Internet, deberemos indicar siempre la autoría y la fuente de donde hemos obtenido la información, reconociendo el trabajo de las personas que la han creado. De esta forma, aprenderemos a utilizar la información de manera ética, respetuosa y responsable, desarrollando buenos hábitos digitales y respetando los derechos de autor.</p>
+<p>Así, cuidaremos tanto nuestra información personal como la de los demás y nos convertiremos en ciudadanos digitales responsables.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780504862749-wqrnnle9d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante esta Situación de Aprendizaje utilizaremos algunas herramientas digitales para crear ritmos, grabar actividades o compartir nuestros trabajos dentro del aula. Por ello, es importante que hagamos un uso responsable y seguro de la tecnología. Respetaremos la privacidad de todas las personas, no compartiremos datos personales ni imágenes sin autorización y utilizaremos las herramientas digitales siguiendo las indicaciones de la seño.</p>\n<p>Además, cuando busquemos información, imágenes, sonidos o cualquier otro recurso en Internet, deberemos indicar siempre la autoría y la fuente de donde hemos obtenido la información, reconociendo el trabajo de las personas que la han creado. De esta forma, aprenderemos a utilizar la información de manera ética, respetuosa y responsable, desarrollando buenos hábitos digitales y respetando los derechos de autor.</p>\n<p>Así, cuidaremos tanto nuestra información personal como la de los demás y nos convertiremos en ciudadanos digitales responsables.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>4f884ae0-2f7a-4449-ad9a-350b6405ebf6</odePageId>
+      <odeBlockId>block-1780512847159-cfhkdg7tw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4f884ae0-2f7a-4449-ad9a-350b6405ebf6</odePageId>
+          <odeBlockId>block-1780512847159-cfhkdg7tw</odeBlockId>
+          <odeIdeviceId>idevice-1780512847158-y0dbmesne</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780512847158-y0dbmesne" title="" href="{{context_path}}/content/resources/Infro B2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Infro B2.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780512847158-y0dbmesne","img_0":{"img":"{{context_path}}/content/resources/Infro B2.png","thumbnail":"{{context_path}}/content/resources/Infro B2.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780504734698-k5c94ekmd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>DESCRIPCIÓN DEL PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DESCRIPCIÓN DEL PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780504734698-k5c94ekmd</odePageId>
+      <odeBlockId>block-1780504739046-4juwr5p8p</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780504734698-k5c94ekmd</odePageId>
+          <odeBlockId>block-1780504739046-4juwr5p8p</odeBlockId>
+          <odeIdeviceId>idevice-1780504739043-dfpyw63x3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al finalizar esta Situación de Aprendizaje, realizaréis una actuación musical en pequeños grupos (cuartetos) para demostrar todo lo que habéis aprendido.</p>
+<p>Cada grupo interpretará la canción tradicional andaluza "Los cuatro muleros" utilizando diferentes recursos musicales creados durante el proyecto:</p>
+<p>🥁 Vuestro cotidiáfono, construido con materiales reciclados.</p>
+<p>💻 La base rítmica digital que habéis diseñado en el espacio Digitalízate.</p>
+<p>🎤 La voz, cantando la canción de forma coordinada.</p>
+<p>👏 La percusión corporal y el movimiento, siguiendo el ritmo ternario (3/4).</p>
+<p>Durante la actuación tendréis que demostrar que sois capaces de mantener el ritmo, trabajar en equipo, coordinaros con vuestros compañeros y utilizar correctamente los recursos musicales y tecnológicos creados.</p>
+<p>Además, la actuación podrá ser grabada para que posteriormente podáis verla, valorar vuestro trabajo y reflexionar sobre vuestros logros y aspectos a mejorar.</p>
+<p>🌟 Nuestro reto final<br />Convertirnos en un grupo musical capaz de unir tradición, reciclaje y tecnología para interpretar "Los cuatro muleros" de una forma creativa, sostenible y divertida.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780504739043-dfpyw63x3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar esta Situación de Aprendizaje, realizaréis una actuación musical en pequeños grupos (cuartetos) para demostrar todo lo que habéis aprendido.</p>\n<p>Cada grupo interpretará la canción tradicional andaluza \"Los cuatro muleros\" utilizando diferentes recursos musicales creados durante el proyecto:</p>\n<p>🥁 Vuestro cotidiáfono, construido con materiales reciclados.</p>\n<p>💻 La base rítmica digital que habéis diseñado en el espacio Digitalízate.</p>\n<p>🎤 La voz, cantando la canción de forma coordinada.</p>\n<p>👏 La percusión corporal y el movimiento, siguiendo el ritmo ternario (3/4).</p>\n<p>Durante la actuación tendréis que demostrar que sois capaces de mantener el ritmo, trabajar en equipo, coordinaros con vuestros compañeros y utilizar correctamente los recursos musicales y tecnológicos creados.</p>\n<p>Además, la actuación podrá ser grabada para que posteriormente podáis verla, valorar vuestro trabajo y reflexionar sobre vuestros logros y aspectos a mejorar.</p>\n<p>🌟 Nuestro reto final<br />Convertirnos en un grupo musical capaz de unir tradición, reciclaje y tecnología para interpretar \"Los cuatro muleros\" de una forma creativa, sostenible y divertida.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780505078834-9irxjzvww</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>HERRAMIENTAS ÚTILES PARA NUESTRO PROYECTO</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS ÚTILES PARA NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>HERRAMIENTAS ÚTILES PARA NUESTRO PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780505078834-9irxjzvww</odePageId>
+      <odeBlockId>block-1780505099789-wklrhqgva</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780505078834-9irxjzvww</odePageId>
+          <odeBlockId>block-1780505099789-wklrhqgva</odeBlockId>
+          <odeIdeviceId>idevice-1780505099787-9c22hzug8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.canva.com/design/DAHJ72seXX0/2T3T2dnA5oDSj2ufqVLdKA/edit">https://www.canva.com/design/DAHJ72seXX0/2T3T2dnA5oDSj2ufqVLdKA/edit</a></p>
+<p><br /></p>
+<p><a href="https://padlet.com/mcasjim273/sda-eco-ritmos-4-epo-pk9llb8couk079cn">https://padlet.com/mcasjim273/sda-eco-ritmos-4-epo-pk9llb8couk079cn</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780505099787-9c22hzug8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.canva.com/design/DAHJ72seXX0/2T3T2dnA5oDSj2ufqVLdKA/edit\">https://www.canva.com/design/DAHJ72seXX0/2T3T2dnA5oDSj2ufqVLdKA/edit</a></p>\n<p><br /></p>\n<p><a href=\"https://padlet.com/mcasjim273/sda-eco-ritmos-4-epo-pk9llb8couk079cn\">https://padlet.com/mcasjim273/sda-eco-ritmos-4-epo-pk9llb8couk079cn</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780505632180-rdsm313sa</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ACTIVIDADES</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ACTIVIDADES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780505632180-rdsm313sa</odePageId>
+      <odeBlockId>block-1780505638485-dgnurmgsw</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780505632180-rdsm313sa</odePageId>
+          <odeBlockId>block-1780505638485-dgnurmgsw</odeBlockId>
+          <odeIdeviceId>idevice-1780505638483-nxwgyzgmy</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780505638483-nxwgyzgmy" title="" href="{{context_path}}/content/resources/MAPA MENTAL_MÓDULO 7_MARÍA CASTAÑO (3).png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/MAPA MENTAL_MÓDULO 7_MARÍA CASTAÑO (3).png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780505638483-nxwgyzgmy","img_0":{"img":"{{context_path}}/content/resources/MAPA MENTAL_MÓDULO 7_MARÍA CASTAÑO (3).png","thumbnail":"{{context_path}}/content/resources/MAPA MENTAL_MÓDULO 7_MARÍA CASTAÑO (3).png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780505767937-zzy4xfpum</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRITERIOS E INSTRUMENTOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS E INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRITERIOS E INSTRUMENTOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780505767937-zzy4xfpum</odePageId>
+      <odeBlockId>block-1780512374608-irprxixro</odeBlockId>
+      <blockName>CRITERIOS E INSTRUMENTOS DE EVALUACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780505767937-zzy4xfpum</odePageId>
+          <odeBlockId>block-1780512374608-irprxixro</odeBlockId>
+          <odeIdeviceId>idevice-1780512374607-uxf37stxs</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780512374607-uxf37stxs" title="" href="{{context_path}}/content/resources/RÚBRICA.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/RÚBRICA.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780512374607-uxf37stxs" title="" href="{{context_path}}/content/resources/LISTA DE COTEJO.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/LISTA DE COTEJO.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1780512374607-uxf37stxs" title="" href="{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780512374607-uxf37stxs","img_0":{"img":"{{context_path}}/content/resources/RÚBRICA.png","thumbnail":"{{context_path}}/content/resources/RÚBRICA.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/LISTA DE COTEJO.png","thumbnail":"{{context_path}}/content/resources/LISTA DE COTEJO.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN.png","thumbnail":"{{context_path}}/content/resources/CRITERIOS DE EVALUACIÓN.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780512547517-frt242bdn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>CRÉDITOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>CRÉDITOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780512547517-frt242bdn</odePageId>
+      <odeBlockId>block-1780512548958-dq5hj01u2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780512547517-frt242bdn</odePageId>
+          <odeBlockId>block-1780512548958-dq5hj01u2</odeBlockId>
+          <odeIdeviceId>idevice-1780512548957-ez4kptlyl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎵 Recursos musicales<br />Canción popular andaluza: Los cuatro muleros.<br />Adaptaciones y grabaciones utilizadas con fines educativos procedentes de fuentes de acceso libre o autorizadas para uso docente.<br />💻 Recursos digitales<br />Chrome Music Lab Rhythm<br />Groove Pizza<br />Metronome Online<br />🖼️ Recursos visuales e información<br />Imágenes, vídeos y materiales de consulta utilizados exclusivamente con fines educativos.<br />Toda la información recopilada durante la investigación deberá incluir la autoría y la fuente de procedencia, respetando los derechos de autor y las licencias de uso correspondientes.<br />♻️ Materiales empleados<br />Cartón reciclado.<br />Material reutilizado aportado por las familias y el centro educativo.<br />Material fungible de aula (pegamento, tijeras, pinturas, rotuladores, etc.).<br />📜 Referencias curriculares<br />Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE).<br />Real Decreto 157/2022, de 1 de marzo, por el que se establecen las enseñanzas mínimas de Educación Primaria.<br />Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en Andalucía.<br />Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía.<br />👩‍🏫 Diseño y elaboración de la Situación de Aprendizaje<br />Seño María ✨</p>
+<p>"Aprendemos música, cuidamos el planeta y creamos juntos."</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780512548957-ez4kptlyl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>🎵 Recursos musicales<br />Canción popular andaluza: Los cuatro muleros.<br />Adaptaciones y grabaciones utilizadas con fines educativos procedentes de fuentes de acceso libre o autorizadas para uso docente.<br />💻 Recursos digitales<br />Chrome Music Lab Rhythm<br />Groove Pizza<br />Metronome Online<br />🖼️ Recursos visuales e información<br />Imágenes, vídeos y materiales de consulta utilizados exclusivamente con fines educativos.<br />Toda la información recopilada durante la investigación deberá incluir la autoría y la fuente de procedencia, respetando los derechos de autor y las licencias de uso correspondientes.<br />♻️ Materiales empleados<br />Cartón reciclado.<br />Material reutilizado aportado por las familias y el centro educativo.<br />Material fungible de aula (pegamento, tijeras, pinturas, rotuladores, etc.).<br />📜 Referencias curriculares<br />Ley Orgánica 3/2020, de 29 de diciembre (LOMLOE).<br />Real Decreto 157/2022, de 1 de marzo, por el que se establecen las enseñanzas mínimas de Educación Primaria.<br />Decreto 101/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la Educación Primaria en Andalucía.<br />Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Primaria en la Comunidad Autónoma de Andalucía.<br />👩‍🏫 Diseño y elaboración de la Situación de Aprendizaje<br />Seño María ✨</p>\n<p>\"Aprendemos música, cuidamos el planeta y creamos juntos.\"</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780512590000-v7ph8bhs0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780512590000-v7ph8bhs0</odePageId>
+      <odeBlockId>block-1780512661658-axtts2oio</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780512590000-v7ph8bhs0</odePageId>
+          <odeBlockId>block-1780512661658-axtts2oio</odeBlockId>
+          <odeIdeviceId>idevice-1780512661657-oknrr2ha7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Área: Educación Artística (Música)<br />Nivel: 4.º de Educación Primaria<br />Temporalización: 2 sesiones</p>
+<p> <br />🎯 ¿Qué vamos a aprender?<br />A través de la canción popular andaluza Los cuatro muleros, aprenderemos a reconocer e interpretar el ritmo ternario (3/4), construiremos instrumentos con materiales reciclados, utilizaremos herramientas digitales para crear música y realizaremos una actuación final en equipo.</p>
+<p>🏫 Espacios de aprendizaje<br />🎤 Espacio Canto<br />Aprendemos e interpretamos la canción.<br />Trabajamos la afinación, la respiración y la expresión vocal.<br />🥁 Espacio Interpretación<br />Practicamos el ritmo ternario.<br />Utilizamos percusión corporal e instrumentos reciclados.<br />🔎 Espacio Investiga<br />Descubrimos información sobre la canción y la cultura popular andaluza.<br />Reflexionamos sobre el reciclaje y la sostenibilidad.<br />💻 Espacio Digitalízate<br />Creamos bases rítmicas digitales.<br />Utilizamos aplicaciones musicales educativas.<br /> <br />🌟 Producto final<br />Cada grupo realizará una actuación musical cooperativa interpretando Los cuatro muleros mediante:</p>
+<p>🎤 Voz.</p>
+<p>🥁 Cotidiáfono reciclado.</p>
+<p>💻 Base rítmica digital.</p>
+<p>👏 Percusión corporal y movimiento.</p>
+<p> <br />✅ ¿Cómo sabré si lo he conseguido?<br />Lo demostrarás cuando seas capaz de:</p>
+<p>Mantener el ritmo ternario correctamente.<br />Participar activamente en tu grupo.<br />Utilizar tu instrumento reciclado de forma adecuada.<br />Crear y utilizar una base rítmica digital.<br />Respetar las ideas y aportaciones de tus compañeros.<br />Participar con actitud positiva en la actuación final.<br />🎶 Nuestro reto<br />Unir música, tradición, reciclaje y tecnología para crear una actuación original inspirada en la canción "Los cuatro muleros". ♻️🎵💻🌍</p>
+<p>Seño María 💜</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780512661657-oknrr2ha7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Área: Educación Artística (Música)<br />Nivel: 4.º de Educación Primaria<br />Temporalización: 2 sesiones</p>\n<p> <br />🎯 ¿Qué vamos a aprender?<br />A través de la canción popular andaluza Los cuatro muleros, aprenderemos a reconocer e interpretar el ritmo ternario (3/4), construiremos instrumentos con materiales reciclados, utilizaremos herramientas digitales para crear música y realizaremos una actuación final en equipo.</p>\n<p>🏫 Espacios de aprendizaje<br />🎤 Espacio Canto<br />Aprendemos e interpretamos la canción.<br />Trabajamos la afinación, la respiración y la expresión vocal.<br />🥁 Espacio Interpretación<br />Practicamos el ritmo ternario.<br />Utilizamos percusión corporal e instrumentos reciclados.<br />🔎 Espacio Investiga<br />Descubrimos información sobre la canción y la cultura popular andaluza.<br />Reflexionamos sobre el reciclaje y la sostenibilidad.<br />💻 Espacio Digitalízate<br />Creamos bases rítmicas digitales.<br />Utilizamos aplicaciones musicales educativas.<br /> <br />🌟 Producto final<br />Cada grupo realizará una actuación musical cooperativa interpretando Los cuatro muleros mediante:</p>\n<p>🎤 Voz.</p>\n<p>🥁 Cotidiáfono reciclado.</p>\n<p>💻 Base rítmica digital.</p>\n<p>👏 Percusión corporal y movimiento.</p>\n<p> <br />✅ ¿Cómo sabré si lo he conseguido?<br />Lo demostrarás cuando seas capaz de:</p>\n<p>Mantener el ritmo ternario correctamente.<br />Participar activamente en tu grupo.<br />Utilizar tu instrumento reciclado de forma adecuada.<br />Crear y utilizar una base rítmica digital.<br />Respetar las ideas y aportaciones de tus compañeros.<br />Participar con actitud positiva en la actuación final.<br />🎶 Nuestro reto<br />Unir música, tradición, reciclaje y tecnología para crear una actuación original inspirada en la canción \"Los cuatro muleros\". ♻️🎵💻🌍</p>\n<p>Seño María 💜</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780512590000-v7ph8bhs0</odePageId>
+      <odeBlockId>block-1780512725297-ie4m0glgp</odeBlockId>
+      <blockName>RELACIÓN DE LAS TAREAS CON LOS CRITERIOS</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780512590000-v7ph8bhs0</odePageId>
+          <odeBlockId>block-1780512725297-ie4m0glgp</odeBlockId>
+          <odeIdeviceId>idevice-1780512725295-5lff5uqgr</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780512725295-5lff5uqgr" title="" href="{{context_path}}/content/resources/relación tarea con criterio.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/relación tarea con criterio.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780512725295-5lff5uqgr","img_0":{"img":"{{context_path}}/content/resources/relación tarea con criterio.png","thumbnail":"{{context_path}}/content/resources/relación tarea con criterio.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
